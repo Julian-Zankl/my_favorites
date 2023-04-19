@@ -3,5 +3,5 @@
 1. Seven
 2. The Shawshank Redemption
 3. Interstellar
-4. The Departed
+4. The Dark Knight
 5. Pulp Fiction
